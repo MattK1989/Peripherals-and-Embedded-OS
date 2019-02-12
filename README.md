@@ -8,6 +8,6 @@
 
 **Software Used:** Quartus Prime, ModelSim, Embedded Ubuntu
 
-**Hardware Used:** Altera DE1-SoC Cyclone V FPGA
+**Hardware Used:** Altera DE1-SoC Cyclone V FPGA, USB Mouse, HP Pavilion Laptop
 
 **Programming Languages Used:** C, VHDL
