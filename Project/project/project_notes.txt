@@ -1,0 +1,6 @@
+fpga_rtl contains files directly from my_first_hps-fpga
+Needed for pin locations and references to on-board hardware
+No modifications 
+
+hps-c contains customized software files
+Based heavily on projects in test_led and test_mouse folders
